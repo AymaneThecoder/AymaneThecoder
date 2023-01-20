@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aymane</h1>
 <h3 align="center">A passionate full stack developer</h3>
-<img align="right" alt="coding" with="400" src="https://user-images.githubusercontent.com/107328476/213787738-4af08434-b258-4489-9cae-615592236d1d.png
+<img align="right" alt="coding" with="400" src="https://user-images.githubusercontent.com/107328476/213788460-b1ae7651-5789-4a4b-8a58-321a6cfcc642.gif
+
 ">
 - 📫 How to reach me **aymane.studies@gmail.com**
 
